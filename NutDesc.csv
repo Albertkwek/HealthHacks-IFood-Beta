@@ -1,0 +1,66 @@
+"","Nutrient code","Nutrient description","Tagname","Unit","Decimals"
+"1",203,"Protein","PROCNT","g",2
+"2",204,"Total Fat","FAT","g",2
+"3",205,"Carbohydrate","CHOCDF","g",2
+"4",208,"Energy","ENERC_KCAL","kcal",0
+"5",221,"Alcohol","ALC","g",1
+"6",255,"Water","WATER","g",2
+"7",262,"Caffeine","CAFFN","mg",0
+"8",263,"Theobromine","THEBRN","mg",0
+"9",269,"Sugars, total","SUGAR","g",2
+"10",291,"Fiber, total dietary","FIBTG","g",1
+"11",301,"Calcium","CA","mg",0
+"12",303,"Iron","FE","mg",2
+"13",304,"Magnesium","MG","mg",0
+"14",305,"Phosphorus","P","mg",0
+"15",306,"Potassium","K","mg",0
+"16",307,"Sodium","SO","mg",0
+"17",309,"Zinc","ZN","mg",2
+"18",312,"Copper","CU","mg",3
+"19",317,"Selenium","SE","mcg",1
+"20",319,"Retinol","RETOL","mcg",0
+"21",320,"Vitamin A, RAE","VITA_RAE","mcg_RAE",0
+"22",321,"Carotene, beta","CARTB","mcg",0
+"23",322,"Carotene, alpha","CARTA","mcg",0
+"24",323,"Vitamin E (alpha-tocopherol)","TOCPHA","mg",2
+"25",328,"Vitamin D (D2 + D3)","VITD","mcg",1
+"26",334,"Cryptoxanthin, beta","CRYPX","mcg",0
+"27",337,"Lycopene","LYCPN","mcg",0
+"28",338,"Lutein + zeaxanthin","LUT+ZEA","mcg",0
+"29",401,"Vitamin C","VITC","mg",1
+"30",404,"Thiamin","THIA","mg",3
+"31",405,"Riboflavin","RIBF","mg",3
+"32",406,"Niacin","NIA","mg",3
+"33",415,"Vitamin B-6","VITB6A","mg",3
+"34",417,"Folate, total","FOL","mcg",0
+"35",418,"Vitamin B-12","VITB12","mcg",2
+"36",421,"Choline, total","CHOLN","mg",1
+"37",430,"Vitamin K (phylloquinone)","VITK","mcg",1
+"38",431,"Folic acid","FOLAC","mcg",0
+"39",432,"Folate, food","FOLFD","mcg",0
+"40",435,"Folate, DFE","FOLDFE","mcg_DFE",0
+"41",573,"Vitamin E, added","AV","mg",2
+"42",578,"Vitamin B-12, added","VA","mcg",2
+"43",601,"Cholesterol","CHOLE","mg",0
+"44",606,"Fatty acids, total saturated","FASAT","g",3
+"45",607,"4:0","F4D0","g",3
+"46",608,"6:0","F6D0","g",3
+"47",609,"8:0","F8D0","g",3
+"48",610,"10:0","F10D0","g",3
+"49",611,"12:0","F12D0","g",3
+"50",612,"14:0","F14D0","g",3
+"51",613,"16:0","F16D0","g",3
+"52",614,"18:0","F18D0","g",3
+"53",617,"18:1","F18D1","g",3
+"54",618,"18:2","F18D2","g",3
+"55",619,"18:3","F18D3","g",3
+"56",620,"20:4","F20D4","g",3
+"57",621,"22:6 n-3","F22D6","g",3
+"58",626,"16:1","F16D1","g",3
+"59",627,"18:4","F18D4","g",3
+"60",628,"20:1","F20D1","g",3
+"61",629,"20:5 n-3","F20D5","g",3
+"62",630,"22:1","F22D1","g",3
+"63",631,"22:5 n-3","F22D5","g",3
+"64",645,"Fatty acids, total monounsaturated","FAMS","g",3
+"65",646,"Fatty acids, total polyunsaturated","FAPU","g",3
